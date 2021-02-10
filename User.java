@@ -3,5 +3,6 @@
 	private String userName;
     private int id; 
 	private int age; 
+	private int sex;
 
 }
